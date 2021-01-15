@@ -1,4 +1,4 @@
-@octocat :+1: This PR looks great - it's ready to merge! :octocat:
+:octocat:
 # hello-world
 
 Hello friends!
